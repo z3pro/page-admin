@@ -1,0 +1,32 @@
+.wrapper {
+    width: 100%;
+}
+.category {
+    margin: 8px;
+}
+.menu-option {
+    margin: 20px 0;
+    display: flex;
+}
+.option-search {
+    left: 0;
+    width: 50%;
+    padding: 0 20px;
+   display: flex;
+}
+.search{
+    width: 50%;
+    padding: 0 20px;
+
+}
+.list-card {
+    display: flex;
+    justify-content: center;
+    margin: 16px;
+    border-radius: 5px;
+}
+.product {
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+}

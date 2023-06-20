@@ -1,0 +1,18 @@
+.wrapper{
+    height: 100%;
+}
+.header {
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    height: 50px;
+    background-color: #000;
+}
+.logo {
+    font-size: 20px;
+    font-weight: 700;
+    color: transparent;
+    background-image: linear-gradient(to left top,#E9D66B,#6699CC);
+    background-clip: text;
+}
